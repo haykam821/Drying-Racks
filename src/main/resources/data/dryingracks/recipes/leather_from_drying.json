@@ -1,0 +1,7 @@
+{
+	"type": "dryingracks:drying",
+	"ingredient": {
+		"item": "minecraft:rotten_flesh"
+	},
+	"result": "minecraft:leather"
+}

@@ -1,0 +1,25 @@
+{
+	"schemaVersion": 1,
+	"id": "dryingracks",
+	"version": "${version}",
+	"name": "Drying Racks",
+	"description": "Adds drying racks to Minecraft.",
+	"authors": [
+		"haykam821"
+	],
+	"contact": {
+		"homepage": "https://github.com/haykam821/Drying-Racks#readme",
+		"issues": "https://github.com/haykam821/Drying-Racks/issues"
+	},
+	"license": "MIT",
+	"icon": "assets/dryingracks/icon.png",
+	"entrypoints": {
+		"main": [
+			"io.github.haykam821.dryingracks.Main"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.4.0",
+		"fabric": "*"
+	}
+}

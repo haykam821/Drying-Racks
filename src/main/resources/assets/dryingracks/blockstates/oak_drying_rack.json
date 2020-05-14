@@ -1,0 +1,22 @@
+{
+	"variants": {
+		"facing=north": {
+			"model": "dryingracks:block/oak_drying_rack"
+		},
+		"facing=east": {
+			"model": "dryingracks:block/oak_drying_rack",
+			"y": 90,
+			"uvlock": true
+		},
+		"facing=south": {
+			"model": "dryingracks:block/oak_drying_rack",
+			"y": 180,
+			"uvlock": true
+		},
+		"facing=west": {
+			"model": "dryingracks:block/oak_drying_rack",
+			"y": 270,
+			"uvlock": true
+		}
+	}
+}

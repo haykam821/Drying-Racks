@@ -1,0 +1,6 @@
+{
+	"parent": "dryingracks:block/drying_rack",
+	"textures": {
+		"all": "block/dark_oak_planks"
+	}
+}
